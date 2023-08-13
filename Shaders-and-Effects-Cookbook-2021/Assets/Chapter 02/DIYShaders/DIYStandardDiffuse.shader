@@ -1,4 +1,4 @@
-Shader "DIYShadersCookBook/Chapter2/DIYStandardDiffuse"
+Shader "DIYShadersCookbook/Chapter 2/DIYStandardDiffuse"
 {
     Properties
     {

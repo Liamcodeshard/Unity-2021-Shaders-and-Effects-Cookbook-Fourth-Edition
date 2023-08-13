@@ -1,4 +1,4 @@
-Shader "DIYShadersCookBook/Chapter2/DIYStandardColor"
+Shader "DIYShadersCookbook/Chapter 2/DIYStandardColor"
 {
     Properties
     {

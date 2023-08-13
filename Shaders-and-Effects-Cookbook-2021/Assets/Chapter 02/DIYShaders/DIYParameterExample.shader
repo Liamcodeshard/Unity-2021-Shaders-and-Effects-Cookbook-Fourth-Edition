@@ -1,4 +1,4 @@
-Shader "DIYShadersCookBook/Chapter2/DIYParameterExample"
+Shader "DIYShadersCookbook/Chapter 2/DIYParameterExample"
 {
     Properties
     {
